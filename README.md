@@ -8,3 +8,5 @@ SETUP:
 -stwórz nową klase i wklej kod
 -wpisz login do konta i liste haseł(lista jest na samym dole kodu)
 -baw sie dobrze😈😈😈(opcjonalnie)
+
+Narazie jest tylko wersja loginu na konto ucznia ale moze kiedys bedzie jeszcze z kontem pracownika jak bedzie mi sie chcialo
